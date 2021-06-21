@@ -1,0 +1,6 @@
+{
+    "npm.exclude": "",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.port": 0
+}
