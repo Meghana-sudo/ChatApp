@@ -62,7 +62,7 @@ h1 {
 #messageInp {
     width: 80%;
     border: 2px solid black;
-    border-radius: 6px;
+    border-radius: 8px;
     height: 34px;
     font-size: 22px;
 }
@@ -77,5 +77,5 @@ h1 {
 }
 
 .head1 {
-    background-color: blue;
+    background-color: rgb(197, 207, 207)
 }
